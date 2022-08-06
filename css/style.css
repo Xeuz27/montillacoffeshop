@@ -216,7 +216,7 @@ nav .enlaces a:hover {
 }
 
 .about {
-    background: #040404 url(/images/about-img.jpeg);
+    background: #040404 url(../images/about-img.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
